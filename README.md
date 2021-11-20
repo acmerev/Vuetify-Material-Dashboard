@@ -45,6 +45,8 @@ Let us know what you think and what we can improve below. And good luck with dev
 
 
 #### Special thanks
+Durante el desarrollo de este Dashboard, habiamos utilizado muchos recuersos de desarrlodores increibles, Queremos darles las gracias por proevernos de sus herramientas
+de codigo abierto. 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 - [Vuetify](https://vuetifyjs.com/en/) for the wonderful framework
 
